@@ -37,3 +37,12 @@ Online hotel booking service | 2600 employees | monthly audience of the service 
 - Implementation of full assistance to clients by phone
 - Effective conflict resolution
 - Solving various consumer issues
+
+##### PROJECTS:
+
+| Project name        | Description          | Technologies  |
+| ------------- | ------------- | ----- |
+| [Keksobooking](https://github.com/jdoroshina/610981-keksobooking-28) | Service for placing and finding rental ads. | Vanilla JavaScript (ES6), AJAX, Leaflet API, Form's validation, Debounce |
+| [Kekstagram](https://github.com/jdoroshina/610981-kekstagram-28) | Simple "instagram"-like app, where you can view photos, upload your own photos and use CSS-filters on them. | Vanilla JavaScript (ES6), AJAX, Form's validation, Debounce |
+| [Mishka](https://github.com/jdoroshina/610981-mishka-26) | Online store that offers handmade items for home decor. Project has adaptive and fluid layout of three states (mobile, tablet, desktop). Optimized and responsive graphics. Complex grid and repositioning of elements at different screen widths. Build automation. |  HTML, SCSS, Gulp, WebP, Twig, BEM |
+| [Gllacy](https://github.com/jdoroshina/610981-gllacy-34) | E-commerce website which sells ice-cream. | HTML, CSS |
