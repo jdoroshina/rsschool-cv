@@ -1,1 +1,1 @@
-[View CV on GitHub Pages](https://jdoroshina.github.io/rsschool-cv/cv)
+[View CV on GitHub Pages](https://jdoroshina.github.io/rsschool-cv)
